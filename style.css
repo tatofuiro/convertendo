@@ -131,10 +131,11 @@ i,
     border: none;
     font-size: 26px;
     text-align: center;
-    color: #625d5d;
     /*   border-top: 1px solid var(--primary-color);
-  border-bottom: 1px solid var(--primary-color);
-  border-right: 1px solid var(--primary-color); */
+    border-bottom: 1px solid var(--primary-color);
+    border-right: 1px solid var(--primary-color); */
+    color: #CDA9BA;
+    outline: none;
 }
 
 .money {
