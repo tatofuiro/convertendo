@@ -124,7 +124,7 @@ i,
 .enter-moeda3,
 .enter-moeda2,
 .enter-moeda {
-    background-color: #2F2D2E;
+    background-color: var(--second-color);
     width: 190px;
     height: 58px;
     border-radius: 0 20px 20px 0;
